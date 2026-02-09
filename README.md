@@ -37,15 +37,6 @@ Only relevant activity-related data were extracted and used in the analysis.
 
 ---
 
-## Project Structure
-
-CS210-Apple-Health-Analysis/
-├── CS 210 PROJECT.ipynb # Main analysis and modeling notebook
-├── CS 210 - Project report.pdf # Detailed project report
-└── README.md
-
----
-
 ## Methodology
 
 The project is divided into three main parts:
